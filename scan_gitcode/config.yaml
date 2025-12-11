@@ -1,0 +1,12 @@
+scan_url:
+scan_token:
+mta_sender:
+mta_receivers:
+mta_ip:
+mta_port:
+mta_username:
+mta_password:
+mta_subject:
+gitcode_token:
+gitcode_repo:
+  - https://gitcode.com/openUBMC/websit
